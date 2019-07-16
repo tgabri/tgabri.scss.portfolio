@@ -1,0 +1,23 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/tgabri/tgabri.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgabri/tgabri.github.io.git"
+  },
+  "keywords": [],
+  "author": "Gabor Tolgyesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgabri/tgabri.github.io/issues"
+  },
+  "homepage": "https://github.com/tgabri/tgabri.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
